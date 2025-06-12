@@ -4,8 +4,42 @@ SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/EndGame
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/EndGameParts/Character/Operative/CloneSwapDamage/StatusEffect_CloneSwap_WeaponDamage.StatusEffect_CloneSwap_WeaponDamage,AttributeEffects.AttributeEffects[0].ModifierType,0,,ScaleSimple
 SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/Gear/Weapons/_Shared/_Design/EndGameParts/Character/Operative/CloneSwapDamage/UIStat_CloneSwap_WeaponDamage.UIStat_CloneSwap_WeaponDamage,FormatText.string,0,,[endgame]After swapping places with your [endgamebold]Digi-Clone[/endgamebold], Weapon Damage is increased by 35% for 6 seconds.[/endgame]
 
-#preamantus skill
+# TIER ONE skills
 
-#doney brook
+#Synchronicity brook
 
-#
+#Praemuntis skill
+
+#Borrowed time
+
+#TIER TWO Skills
+
+#Donney Brook
+
+#Fractal Frags
+
+#Duct Tape mod
+
+#TIER THREE skills
+
+#Quick Breather
+
+#TIER FOUR skills
+
+#Pocket Full Of Grenades
+
+#Old-U
+
+#Super Sonic Man
+
+#TIER FIVE skills
+
+#Like A Ghost
+
+#Boom Enchance
+
+#Trick Of The Light
+
+#Cap Stone skills
+
+#Double Barrel
