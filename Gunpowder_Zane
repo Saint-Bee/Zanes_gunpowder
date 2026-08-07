@@ -8,8 +8,8 @@
 # TIER ONE skills
 
 #Synchronicity Skill
-SparkLevelPatchEntry,(1,1,0,MatchAll)
-SparkLevelPatchEntry,(1,2,0,MatchAll),/Game/PlayerCharacters/Operative/_Shared/_Design/Passives/CloneTree/MultiTasker/PassiveSkill_Operative_Multitasker.Default__PassiveSkill_Operative_Multitasker_C:StatDataItems_UIStatData_OakPassiveAbilityAttributeActionSkillDamage,FormatText.string,0,,[skillbold]Clone Gun Damage [/skillbold] $VALUE$ per active Kill Skill
+
+SparkLevelPatchEntry,(1,1,0,MatchAll),/Game/PlayerCharacters/Operative/_Shared/_Design/Passives/CloneTree/MultiTasker/PassiveSkill_Operative_Multitasker.Default__PassiveSkill_Operative_Multitasker_C:StatDataItems_UIStatData_OakPassiveAbilityAttributeActionSkillDamage,FormatText.string,0,,[skillbold]Clone Gun Damage [/skillbold] $VALUE$ per active Kill Skill
 
 #Praemuntis skill
 
