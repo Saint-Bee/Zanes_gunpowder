@@ -9,7 +9,7 @@
 
 #Synchronicity Skill
 
-SparkPatchEntry,(1,1,0,MatchAll),/Game/PlayerCharacters/Operative/_Shared/_Design/Passives/CloneTree/MultiTasker/PassiveSkill_Operative_Multitasker.Default__PassiveSkill_Operative_Multitasker_C:StatDataItems_UIStatData_OakPassiveAbilityAttributeActionSkillDamage,FormatText,0,,when ever one  or more of Zane's kill skils are active, he gains [skillbold]"Clone Gun Damage" :[/skillbold] $VALUE$ "per active Kill Skill"
+SparkPatchEntry,(1,1,0,MatchAll),/Game/PlayerCharacters/Operative/_Shared/_Design/Passives/CloneTree/MultiTasker/PassiveSkill_Operative_Multitasker.Default__PassiveSkill_Operative_Multitasker_C:StatDataItems_UIStatData_OakPassiveAbilityAttributeActionSkillDamage,FormatText,0,,when ever one  or more of Zane's kill skils are active, he gains [skillbold]Clone Gun Damage:[/skillbold] $VALUE$ "per active Kill Skill"
 
 #Praemuntis skill
 
