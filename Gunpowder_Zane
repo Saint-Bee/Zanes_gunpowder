@@ -36,6 +36,9 @@ SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/Operative/_Shared/_Design/Passiv
 
 #Super Sonic Man
 
+#Action skill Augment, nova
+SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/Operative/_Shared/_Design/ActionSkills/Gadget_DigiClone/Mods/
+
 #TIER FIVE skills
 
 #Like A Ghost
