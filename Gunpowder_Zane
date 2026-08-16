@@ -37,7 +37,7 @@ SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/Operative/_Shared/_Design/Passiv
 #Super Sonic Man
 
 #Action skill Augment, nova
-SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/Operative/_Shared/_Design/ActionSkills/Gadget_DigiClone/Mods/
+SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/Operative/_Shared/_Design/ActionSkills/Gadget_DigiClone/Mods/AugmentData_Operative_DigiClone_TrapCard.Default__AugmentData_Operative_DigiClone_TrapCard_C,AbilityDescription,0,,WEn Zane Summons his clone there isd a small initial local nova but when DoppleBanger is Activated Zane sacrafices the clone to deal A massive amount of Damage in the form of a nova.
 
 #TIER FIVE skills
 
